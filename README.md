@@ -5,7 +5,7 @@
 
 ## Artificial intelligence investments have increased substantially
 
-* 
+* 10 billion from nicrosft to NVIDIA
 
 
 ## Charts
