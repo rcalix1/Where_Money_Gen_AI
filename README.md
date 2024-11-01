@@ -51,8 +51,12 @@
 
 * Tecno Nomad: https://photoai.com
 * Replicate.com
-* https://stripe.com/payments
 * 
+* https://stripe.com/payments
+
+## How to Make Money Using AI Tools? [14 Best Ways & Top Tools]
+
+* https://www.analyticsvidhya.com/blog/2024/03/make-money-using-ai-tools/
 
 ## References
 
