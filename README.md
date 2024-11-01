@@ -46,6 +46,13 @@
 
 * https://github.com/rcalix1/NatSec
 
+## Pieter Levels
+
+* Tecno Nomad: https://photoai.com
+* Replicate.com
+* https://stripe.com/payments
+* 
+
 ## References
 
 * https://www.goldmansachs.com/insights/articles/will-the-1-trillion-of-generative-ai-investment-pay-off
