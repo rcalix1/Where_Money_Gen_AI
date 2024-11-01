@@ -54,6 +54,7 @@
 * https://replicate.com/docs/guides/fine-tune-a-language-model
 * https://replicate.com/meta/llama-2-7b
 * https://stripe.com/payments
+* https://huggingface.co
 
 ## How to Make Money Using AI Tools? [14 Best Ways & Top Tools]
 
