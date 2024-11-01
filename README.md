@@ -7,6 +7,7 @@
 
 * Cloud
 * NVIDIA
+* The only companies that can make this level of investment are: Meta, Google, OpenAI, and Anthropic.
 
 
 ## Career Pathing
