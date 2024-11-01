@@ -60,6 +60,12 @@
 * fastAI
 * https://huggingface.co
 
+## Examples
+
+* https://github.com/rcalix1/TransferLearning/blob/main/HuggingfaceTransformers/2024/HelloWorldGTP2.ipynb
+* https://github.com/rcalix1/AI_auditing/blob/main/shapley_AI_audit_example1.ipynb
+* https://github.com/rcalix1/RLHF/blob/main/RLHFpipeline/STEP2_HF_tlr/examples/gpt2-sentiment.ipynb
+
 ## How to Make Money Using AI Tools? [14 Best Ways & Top Tools]
 
 * https://www.analyticsvidhya.com/blog/2024/03/make-money-using-ai-tools/
