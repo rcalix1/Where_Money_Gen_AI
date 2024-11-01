@@ -17,7 +17,9 @@
 
 ## Career Pathing
 
-* link
+* Cloud
+* Data
+* APIs
   
 ## Where is the Money in Generative AI?
 
