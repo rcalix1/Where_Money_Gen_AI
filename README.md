@@ -51,9 +51,13 @@
 
 * Tecno Nomad: https://photoai.com
 * Replicate.com
+* https://stripe.com/payments
+
+## Frameworks
+
 * https://replicate.com/docs/guides/fine-tune-a-language-model
 * https://replicate.com/meta/llama-2-7b
-* https://stripe.com/payments
+* fastAI
 * https://huggingface.co
 
 ## How to Make Money Using AI Tools? [14 Best Ways & Top Tools]
