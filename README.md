@@ -3,6 +3,11 @@
 * Career Pathing
 * Where is the Money in Generative AI?
 
+## History
+
+* Perceptron
+* 2007 GPUs
+
 ## Big Winners
 
 * Cloud
