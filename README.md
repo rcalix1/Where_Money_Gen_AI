@@ -3,8 +3,19 @@
 * Career Pathing
 * Where is the Money in Generative AI?
 
+## Artificial intelligence investments have increased substantially
+
+* 
+
+
+## Charts
+
+* https://ourworldindata.org/ai-investments
+* 
+
 ## History
 
+* https://ourworldindata.org/brief-history-of-ai
 * Perceptron
 * 2007 GPUs
 
