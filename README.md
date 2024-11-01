@@ -31,6 +31,7 @@
 * Cloud
 * Data
 * APIs
+* Niche
   
 ## Where is the Money in Generative AI?
 
