@@ -5,7 +5,7 @@
 
 ## Artificial intelligence investments have increased substantially
 
-* 10 billion from microsft to OpenAI 
+* 10 billion from microsoft to OpenAI 
 
 
 ## Charts
