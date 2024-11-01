@@ -27,7 +27,10 @@
 * ... this market is not just the handful of mega-cap names as the winners. Essentially the most important thing beyond the model training piece here is: What data do you have that's unique, that you can bring to bear to help clients? example ...cyber security
 * So what really looking for is companies that have deep proprietary data that they can use to create differentiated use cases and experiences
 * 
-* 
+
+## Intelligence Community Investment
+
+* https://github.com/rcalix1/NatSec
 
 ## References
 
