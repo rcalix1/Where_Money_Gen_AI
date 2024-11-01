@@ -16,4 +16,4 @@
   
 ## Where is the Money in Generative AI?
 
-* link
+* in terms of building out vertical and industry specific LLMs and models, and a lot of edge-use cases, ... that has not been settled yet, and ... that's where a lot of the innovation is going to come.
