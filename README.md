@@ -43,7 +43,7 @@
 
 * in terms of building out vertical and industry specific LLMs and models, and a lot of edge-use cases, ... that has not been settled yet, and ... that's where a lot of the innovation is going to come from
 * ... this market is not just the handful of mega-cap names as the winners. Essentially the most important thing beyond the model training piece here is: What data do you have that's unique, that you can bring to bear to help clients? example ...cyber security
-* So what really looking for is companies that have deep proprietary data that they can use to create differentiated use cases and experiences
+* So what really looking for is companies that have deep proprietary data that they can use to create differentiated use cases and experiences (https://www.vin.com/vin/)
 * Most analysts approach this question through the lens of a product map – the winners will be the picks and shovels (the hardware and infrastructure that support AI)
 * and less money will be made by applications and features built on top.
 * https://www.sectionschool.com/blog/wheres-the-money-going-to-be-made-in-ai
