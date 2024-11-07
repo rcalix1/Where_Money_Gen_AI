@@ -19,6 +19,11 @@
 * Perceptron
 * 2007 GPUs
 
+## The future
+
+* https://ourworldindata.org/ai-impact
+* 
+
 ## Big Winners
 
 * Cloud
