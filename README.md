@@ -63,7 +63,7 @@
 
 * https://replicate.com/docs/guides/fine-tune-a-language-model
 * https://replicate.com/meta/llama-2-7b
-* fastAI
+* fastAI (https://www.fast.ai)
 * https://huggingface.co
 
 ## Examples
