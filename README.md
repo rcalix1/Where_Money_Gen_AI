@@ -16,8 +16,9 @@
 ## History
 
 * https://ourworldindata.org/brief-history-of-ai
-* Perceptron
-* 2007 GPUs
+* Perceptron and Transformers (software) - NN algorithms
+* 2007 GPUs ( cloud )
+* Data 
 
 ## The future
 
