@@ -35,6 +35,7 @@
 
 ## Career Pathing
 
+* Transfer Learning (Pre-training vs. Fine-tuning)
 * Cloud
 * Data
 * APIs
