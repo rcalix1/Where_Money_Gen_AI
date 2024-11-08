@@ -64,6 +64,7 @@
 ## Frameworks
 
 * https://replicate.com/docs/guides/fine-tune-a-language-model
+* https://replicate.com/docs/get-started/fine-tune-with-flux
 * https://replicate.com/meta/llama-2-7b
 * fastAI (https://www.fast.ai)
 * https://huggingface.co
