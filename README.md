@@ -66,6 +66,11 @@
 * Replicate.com
 * https://stripe.com/payments
 
+## Fine Tune Image model with Replicate
+
+* https://replicate.com/docs/get-started/fine-tune-with-flux
+* 
+
 ## Frameworks
 
 * https://replicate.com/docs/guides/fine-tune-a-language-model
