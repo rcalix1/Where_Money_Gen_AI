@@ -20,6 +20,10 @@
 ## Where to start with cuda
 
 * https://github.com/rcalix1/LLM.c
+
+## Multi-GPU
+
+* https://huggingface.co/docs/accelerate/en/index
 * 
 
 ## Charts
