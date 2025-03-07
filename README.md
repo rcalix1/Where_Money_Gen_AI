@@ -74,6 +74,11 @@
 * fastAI (https://www.fast.ai)
 * https://huggingface.co
 
+## AI Agents
+
+* link
+* 
+
 ## Examples
 
 * https://github.com/rcalix1/TransferLearning/blob/main/HuggingfaceTransformers/2024/HelloWorldGTP2.ipynb
