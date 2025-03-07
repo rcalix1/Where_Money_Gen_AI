@@ -11,7 +11,11 @@
 ## DeepSeek
 
 * link
-* 
+
+## Split Path to Gen AI
+
+* high level - use as is AI infrastructure ( software ) - Torch - HF, AI agents, replicate, etc.
+* low level  - mod or hack the AI infrastructure ( software ) - Deep Seek - CUDA C/C++
 
 ## Charts
 
