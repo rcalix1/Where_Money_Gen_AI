@@ -76,7 +76,7 @@
 
 ## AI Agents
 
-* link
+* https://github.com/rcalix1/AgentsAI/tree/main/crewAI
 * 
 
 ## Examples
