@@ -8,6 +8,10 @@
 
 * 10 billion from microsoft to OpenAI 
 
+## DeepSeek
+
+* link
+* 
 
 ## Charts
 
