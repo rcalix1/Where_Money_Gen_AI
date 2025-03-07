@@ -2,7 +2,8 @@
 
 * Career Pathing
 * Where is the Money in Generative AI?
-* link 
+* Essentially talk about the Tools for Gen AI and Transfer Learning
+* 
 
 ## Artificial intelligence investments have increased substantially
 
@@ -10,20 +11,24 @@
 
 ## DeepSeek
 
-* link
+* has changed AI a lot
+* drive to more efficiency with less expense
+* 
 
 ## Split Path to Gen AI
 
-* high level - use as is AI infrastructure ( software ) - Torch - HF, AI agents, replicate, etc.
+* high level - use "as is" AI infrastructure ( software ) - Torch - HF, AI agents, replicate, etc.
 * low level  - mod or hack the AI infrastructure ( software ) - Deep Seek - CUDA C/C++
 
 ## Where to start with cuda
 
 * https://github.com/rcalix1/LLM.c
+* cuda examples in avant garge
 
 ## Multi-GPU
 
 * https://huggingface.co/docs/accelerate/en/index
+* accelerate
 * 
 
 ## Charts
@@ -58,12 +63,16 @@
 * Data
 * APIs
 * Niche
+* CUDA
   
 ## Where is the Money in Generative AI?
 
 * in terms of building out vertical and industry specific LLMs and models, and a lot of edge-use cases, ... that has not been settled yet, and ... that's where a lot of the innovation is going to come from
-* ... this market is not just the handful of mega-cap names as the winners. Essentially the most important thing beyond the model training piece here is: What data do you have that's unique, that you can bring to bear to help clients? example ...cyber security
-* So what really looking for is companies that have deep proprietary data that they can use to create differentiated use cases and experiences (https://www.vin.com/vin/)
+* ... this market is not just the handful of mega-cap names as the winners.
+* Essentially the most important thing beyond the model training piece here is: What data do you have that's unique,
+* that you can bring to bear to help clients? example ...cyber security
+* So what really looking for is companies that have deep proprietary data
+* that they can use to create differentiated use cases and experiences (https://www.vin.com/vin/)
 * – the winners will be the picks and shovels (the hardware and infrastructure that support AI)
 * and less money will be made by applications and features built on top.
 * https://www.sectionschool.com/blog/wheres-the-money-going-to-be-made-in-ai
