@@ -2,6 +2,7 @@
 
 * Career Pathing
 * Where is the Money in Generative AI?
+* link 
 
 ## Artificial intelligence investments have increased substantially
 
