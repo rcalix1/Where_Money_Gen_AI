@@ -3,7 +3,7 @@
 * Career Pathing
 * Where is the Money in Generative AI?
 * Essentially talk about the Tools for Gen AI and Transfer Learning
-* 
+* AGS
 
 ## Artificial intelligence investments have increased substantially
 
