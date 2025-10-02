@@ -104,6 +104,7 @@
 
 ## AI Agents
 
+* n8n
 * https://github.com/rcalix1/AgentsAI/tree/main/crewAI
 * 
 
