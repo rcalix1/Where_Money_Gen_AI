@@ -39,6 +39,8 @@
 
 ## Section: Turning AI into Income with n8n Workflows
 
+* https://rcalix1.app.n8n.cloud/home/workflows
+
 ### 🧠 Why This Matters
 
 LLMs are impressive, but they don't directly generate revenue.
