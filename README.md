@@ -263,7 +263,7 @@ Let me know if you want:
 * Niche
 * CUDA
   
-## Where is the Money in Generative AI?
+## Where is the Money in Generative AI? Investing
 
 * in terms of building out vertical and industry specific LLMs and models, and a lot of edge-use cases, ... that has not been settled yet, and ... that's where a lot of the innovation is going to come from
 * ... this market is not just the handful of mega-cap names as the winners.
