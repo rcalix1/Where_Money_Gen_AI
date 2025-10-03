@@ -40,6 +40,7 @@
 ## Section: Turning AI into Income with n8n Workflows
 
 * https://rcalix1.app.n8n.cloud/home/workflows
+* Many Templates available 
 
 ### 🧠 Why This Matters
 
