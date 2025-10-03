@@ -128,7 +128,7 @@ Optionally: Use a webhook trigger to expose this as a mini SaaS.
 
 ## Hosting
 
-* Hostinger on KVMs
+* Hostinger on KVMs (host your n8n in the cloud)
 
 ---
 
@@ -138,14 +138,6 @@ Optionally: Use a webhook trigger to expose this as a mini SaaS.
 >
 > The real money in GenAI is in the glue between models and workflows."
 
----
-
-Let me know if you want:
-
-* A visual flowchart of this example
-* A JSON export of a real n8n workflow
-* Slides from this content
-* Monetization case studies or business model map
 
 ---
 
