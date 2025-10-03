@@ -4,7 +4,7 @@
 * Where is the Money in Generative AI?
 * Essentially talk about the Tools for Gen AI and Transfer Learning
 * AGS
-* 
+* AI agents
 
 ## Artificial intelligence investments have increased substantially
 
@@ -15,7 +15,7 @@
 
 * has changed AI a lot
 * drive to more efficiency with less expense
-* 
+  
 
 ## Split Path to Gen AI
 
@@ -31,7 +31,113 @@
 
 * https://huggingface.co/docs/accelerate/en/index
 * accelerate
-* 
+
+
+---
+
+# Career Pathing: Where is the Money in Generative AI?
+
+## Section: Turning AI into Income with n8n Workflows
+
+### 🧠 Why This Matters
+
+LLMs are impressive, but they don't directly generate revenue.
+
+**Businesses pay for outcomes**: leads generated, emails sent, tickets answered, contracts parsed.
+
+That’s where **n8n** shines: it connects LLMs to real-world systems that do paid work.
+
+---
+
+## 🌐 The Stack: Where n8n Fits
+
+| Layer            | Tool / Example             | Money Comes From...        |
+| ---------------- | -------------------------- | -------------------------- |
+| 🔢 Model Layer   | OpenAI, Claude, Mistral    | (Commoditized)             |
+| 🧠 Agent Layer   | CrewAI, AutoGen, LangGraph | (Complex, still niche)     |
+| ✨ Workflow Layer | **n8n**, Zapier, Make.com  | ✅ *Where business happens* |
+| 💼 Value Layer   | HR, Legal, Sales, SaaS     | 💰 *Clients & cash*        |
+
+---
+
+## 🔧 Real Use Case: AI Sales Assistant in n8n
+
+**Workflow:**
+
+1. Trigger: New contact added to Airtable
+2. n8n calls OpenAI to generate personalized intro email
+3. n8n sends email via Gmail
+4. n8n logs contact + status in Notion CRM
+5. n8n waits 3 days → sends follow-up
+
+💵 This workflow replaces a $3,000/month sales development rep (SDR).
+
+---
+
+## 💰 Monetizable n8n + LLM Workflows
+
+| Use Case                 | Business Value Provided         | Revenue Potential |
+| ------------------------ | ------------------------------- | ----------------- |
+| Lead qualification agent | Faster sales funnel             | 💲💲💲            |
+| Resume screener (HR)     | Cuts hours from hiring pipeline | 💲💲💲            |
+| Shopify FAQ responder    | Reduces support cost            | 💲💲              |
+| Contract analyzer        | Automates legal review          | 💲💲💲            |
+| PDF Q&A system (RAG)     | Internal knowledge agent        | 💲💲💲            |
+
+---
+
+## 🔹 How to Make Money With This Skill
+
+### Freelance Consultant
+
+* Offer: "Custom AI workflow built with n8n + GPT"
+* Price: $500–$3,000 per automation
+* Clients: SMBs, indie SaaS, solopreneurs
+
+### Productized Service
+
+* Package common flows (e.g., AI email responder for Shopify)
+* Sell as service or subscription
+* Deploy with Replicate + n8n + Stripe
+
+### Internal Automation Expert
+
+* Automate operations in your company using n8n
+* Save $10K+/year in ops costs → build internal career value
+
+---
+
+## 🔢 Sample Flow
+
+> Build a plug-and-play flow in n8n:
+>
+> * Trigger: New row in Google Sheet
+> * Function node: Format prompt
+> * OpenAI node: Generate reply
+> * Gmail node: Send email
+> * Notion node: Log result
+
+Optionally: Use a webhook trigger to expose this as a mini SaaS.
+
+---
+
+## 🚀 Final Takeaway
+
+> "LLMs are the brain — but **n8n is the nervous system**.
+>
+> The real money in GenAI is in the glue between models and workflows."
+
+---
+
+Let me know if you want:
+
+* A visual flowchart of this example
+* A JSON export of a real n8n workflow
+* Slides from this content
+* Monetization case studies or business model map
+
+
+---
 
 ## Charts
 
