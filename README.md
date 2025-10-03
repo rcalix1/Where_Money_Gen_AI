@@ -138,6 +138,85 @@ Let me know if you want:
 * Slides from this content
 * Monetization case studies or business model map
 
+---
+
+# 🧠 Why Agents = Where the GenAI Money Is Going
+
+## 1. Next Logical Step After LLMs
+
+* In 2023–2024, billions were spent building **foundation models** like GPT-4, Claude, and Gemini.
+* But now the model space is saturated — the *model alone* is no longer enough.
+* The real opportunity lies in **autonomous AI agents** that use those models to take **action**.
+
+> 💬 ChatGPT answers your question.
+> 🤖 Agents **do the task** using ChatGPT + tools.
+
+---
+
+## 2. Agents Turn LLMs into Workers
+
+* LLMs generate text; agents **generate results**.
+* They chain actions, reason step-by-step, and respond to environments.
+* Examples:
+
+  * Auto-email triage + summarize + reply
+  * AI hiring agent: read resumes, score them, schedule interviews
+  * Fraud investigator agent: pull logs, check anomalies, generate reports
+
+> Tools like **n8n**, **CrewAI**, **LangGraph**, **SmolAgents**, and **AutoGen** are enabling this shift.
+
+---
+
+## 3. Enterprises Want Agents, Not Chatbots
+
+* Every company already uses LLMs.
+* But what they need is:
+
+  * Sales agents
+  * Legal review bots
+  * Insurance adjusters
+  * Marketing automation
+* These are multi-step workflows that require **agent orchestration**, **memory**, and **tool access**.
+
+> 💰 Real value: LLMs-as-staff, not just chatbots.
+
+---
+
+## 4. VC Investment is Following
+
+* **LangChain**: $20M+
+* **n8n**: $12M+
+* **Reka AI** (agent-style multimodal): $60M at $300M valuation
+* **CrewAI**, **LangGraph**, and others growing fast
+
+> 🌟 "AI that acts" is the new investment thesis
+
+---
+
+## 5. Agents Deliver Real ROI
+
+* Companies want:
+
+  * Reduced headcount in support
+  * Faster claims and processing
+  * End-to-end workflow automation
+* Agents plug into existing systems: Gmail, Google Sheets, CRMs, APIs
+
+> This drives **actual business outcomes** — cost savings, revenue growth, faster ops.
+
+---
+
+## 🌟 TL;DR Slide Text
+
+> "GenAI agents are where the money is going — because they **move from language to labor**. Investors and companies want AI that acts, not just talks."
+
+---
+
+## Bonus: Use n8n as Your Demo Platform
+
+* Live demo idea: Gmail → GPT Summary → Slack or Email
+* Shows agent logic, automation, and real-world value
+
 
 ---
 
