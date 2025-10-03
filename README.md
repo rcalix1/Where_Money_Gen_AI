@@ -41,7 +41,8 @@
 ## Section: Turning AI into Income with n8n Workflows
 
 * https://rcalix1.app.n8n.cloud/home/workflows
-* Many Templates available 
+* Many Templates available
+* https://github.com/rcalix1/AgentsAI/blob/main/Py310_crewAI/first_crewai.ipynb
 
 ### 🧠 Why This Matters
 
