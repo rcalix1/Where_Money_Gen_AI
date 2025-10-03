@@ -9,6 +9,7 @@
 ## Artificial intelligence investments have increased substantially
 
 * 10 billion from microsoft to OpenAI
+* Very high investment in data center for cloud 
 * https://hai.stanford.edu/ai-index/2025-ai-index-report?utm_source=chatgpt.com
 
 ## DeepSeek
