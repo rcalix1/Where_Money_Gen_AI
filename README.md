@@ -26,7 +26,7 @@
 ## Where to start with cuda
 
 * https://github.com/rcalix1/LLM.c
-* cuda examples in avant garge
+* cuda examples in avant gard
 
 ## Multi-GPU
 
