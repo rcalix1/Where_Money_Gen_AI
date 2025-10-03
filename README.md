@@ -123,6 +123,12 @@ Optionally: Use a webhook trigger to expose this as a mini SaaS.
 
 ---
 
+## Hosting
+
+* Hostinger on KVMs
+
+---
+
 ## 🚀 Final Takeaway
 
 > "LLMs are the brain — but **n8n is the nervous system**.
